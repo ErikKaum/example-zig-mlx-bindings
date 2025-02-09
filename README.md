@@ -54,7 +54,7 @@ pub fn main() !void {
 }
 ```
 
-But to get more of the benefits that Zig offers it's probably beneficial to create some thin wrappers and utilities around the C API. I've started thinkering with this in the `src/bindings_example`. Something like so: 
+But to get more of the benefits that Zig offers it's probably beneficial to create some thin wrappers and utilities around the C API. I've started tinkering with this in the `src/bindings_example`. Something like so: 
 
 ```zig
 pub const String = struct {
