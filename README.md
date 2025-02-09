@@ -2,7 +2,9 @@
 
 This is an example/experimental repo to show how Zig bindings MLX can be written based on the [zig-build-mlx](https://github.com/ErikKaum/zig-build-mlx) and [zig-build-mlx-c](https://github.com/ErikKaum/zig-build-mlx-c) repos. For supported features and more details on the build process please visit the zig-build-mlx repo.
 
-<img src="https://github.com/erikkaum/example-zig-mlx-bindings/blob/main/assets/bindings.png" width=50% height=50%>
+<div align="center">
+    <img src="https://github.com/erikkaum/example-zig-mlx-bindings/blob/main/assets/bindings.png" width=60% height=60%>
+</div>
 
 ## Examples
 
